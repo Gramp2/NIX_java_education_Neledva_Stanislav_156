@@ -1,0 +1,5 @@
+*.txt
+.xml
+git_start.iml
+.idea
+/out/
